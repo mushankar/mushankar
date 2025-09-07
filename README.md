@@ -19,5 +19,4 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-[![PySpark](https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg)](https://spark.apache.org/)
 
